@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "VOR"
+  site-url: "https://niyazikemer.github.io/VOR"
+  description: "vectorial object recognition"
+  repo-branch: main
+  repo-url: "https://github.com/niyazikemer/VOR"
